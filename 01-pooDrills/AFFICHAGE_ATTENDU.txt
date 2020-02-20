@@ -1,0 +1,36 @@
+Drill 1 : Personne [nom=Mansoif, prenom=Gerard, age=33]
+
+Drill 2 : 
+Nom: Mansoif
+Prenom: Gerard 
+
+Drill 3 : Nordine doit avoir 44 ans : Personne [nom=Nordine, prenom=Ateur, age=44]
+
+Drill 4 : Gérard a mainteant 65 ans : Personne [nom=Mansoif, prenom=Gerard, age=65]
+
+Drill 5 : Affichage du joueur : Joueur [personne=Personne [nom=Tony, prenom=Parker, age=44], numero=10, equipe=null]
+
+Drill 6 : Tony Parker doit maintenant avoir 52 ans : Joueur [personne=Personne [nom=Tony, prenom=Parker, age=52], numero=10, equipe=null]
+
+Drill 8 : Liste des joueurs des Charlotte hornets : 
+Joueur [personne=Personne [nom=Tony, prenom=Parker, age=52], numero=10, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=BATUM, prenom=Nicolas, age=40], numero=5, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=WILLIAMS, prenom=Marvin, age=29], numero=12, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=ZELLER, prenom=Cody, age=42], numero=23, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=WALKER, prenom=Kemba, age=31], numero=9, equipe=Equipe [nom=Charlotte Hornets]]
+
+Drill 9 : Le joueur numéro 9 est viré des Charlotte Hornets
+Joueur [personne=Personne [nom=Tony, prenom=Parker, age=52], numero=10, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=BATUM, prenom=Nicolas, age=40], numero=5, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=WILLIAMS, prenom=Marvin, age=29], numero=12, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=ZELLER, prenom=Cody, age=42], numero=23, equipe=Equipe [nom=Charlotte Hornets]]
+
+Drill 10 : Cody ZELLER est viré !
+Joueur [personne=Personne [nom=Tony, prenom=Parker, age=52], numero=10, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=BATUM, prenom=Nicolas, age=40], numero=5, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=WILLIAMS, prenom=Marvin, age=29], numero=12, equipe=Equipe [nom=Charlotte Hornets]]
+
+Drill 11 : Marvin Williams va à  Los Angeles LAKERS
+Joueur [personne=Personne [nom=WILLIAMS, prenom=Marvin, age=29], numero=12, equipe=Equipe [nom=Los Angeles LAKERS]]
+Joueur [personne=Personne [nom=Tony, prenom=Parker, age=52], numero=10, equipe=Equipe [nom=Charlotte Hornets]]
+Joueur [personne=Personne [nom=BATUM, prenom=Nicolas, age=40], numero=5, equipe=Equipe [nom=Charlotte Hornets]]
